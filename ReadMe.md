@@ -1,3 +1,1 @@
-#This is a project of sliding component 
-
-this is  to check this
+Starting on read me file
